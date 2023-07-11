@@ -1,0 +1,7 @@
+.outer {
+    display: grid;
+    grid-template-rows: row row;
+    row-gap: 20px;
+    justify-items: center;
+    padding: 100px;
+  }
